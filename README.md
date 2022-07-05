@@ -16,8 +16,7 @@ Requisitos técnicos:
 * Lógica de programação
 * Mas é melhor ainda se tiver um conhecimento básico de javascript  
 
-## Sobre a estrutura de commits  
-Os commits foram feitos de tal forma que o usuário pode ler commit a commit em ordem de publicação e acompanhar gradualmente a criação do repositório e a lógica aplicada. É recomendado que o primeiro estudo seja feito dessa forma. Pequenos erros nos comentários ou de gramática podem ser encontrados no caminho (consequências do programador que estuda de madrugada), mas eles já foram devidamente corrigidos na última versão da main.
+
 
 ## Estrutura do repositório 
 * *src* 
